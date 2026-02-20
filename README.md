@@ -9,7 +9,7 @@ NHNCloudIAPKit iOS SDK
 
 ### Environment
 * Swift 5.9.2 or later
-* Xcode 15.1 or later
+* Xcode 26.0 or later
 * iOS 15.0 or later
 
 ### Documentation
